@@ -16,7 +16,7 @@
 ## 📫 Get in Touch
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abimanyukayana)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](abimanyukayana9@gmail.com)
 
 ---
 
