@@ -8,7 +8,8 @@
 
 - **🌱 Currently Learning:** Advanced data visualization techniques, statistical analysis, and machine learning foundations.
 - **💞 Looking to Collaborate On:** Data analysis projects, dashboard visualizations, and initiatives that bring data insights into business strategy.
-- **⚡ Fun Fact:** When I'm not analyzing data, I love exploring sci-fi books, experimenting with cooking, and following the latest tech trends.
+- **⚡ Fun Fact:** I began my career outside of IT, but my curiosity and drive for learning led me into the world of technology and data analysis!
+
 
 ---
 
