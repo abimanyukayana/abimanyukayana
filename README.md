@@ -22,10 +22,13 @@
 
 ## 🧰 Skills
 
-- **Programming & Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Tableau, Microsoft Excel
-- **Data Analytics:** Exploratory Data Analysis (EDA), Data Cleaning, Descriptive & Inferential Statistics
-- **Visualization & Reporting:** Dashboard Creation, Data Storytelling, Business Intelligence
-
+- **Programming Languages:** Python
+- **Data Analysis & Visualization**
+- **Database Management:** SQL, NoSQL
+- **Statistical Analysis**
+- **Machine Learning Techniques**
+- **Deep Learning**
+- **Other Skills:** Business Knowledge, Model Deployment, Technical Presentation
 ---
 
 ## 👨‍💻 Projects
