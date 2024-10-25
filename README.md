@@ -1,4 +1,4 @@
-# Abimanyu Kayana - Data Analyst
+# Abimanyu Kayana Maheswara - Data Analyst
 
 👋 Hi there! I’m Abimanyu Kayana, a Data Analyst with a passion for data-driven insights and an eagerness to tackle real-world business challenges through data. As a recent graduate from Hacktiv8’s Data Science program, I have hands-on experience in data analysis, visualization, and machine learning basics. 
 
