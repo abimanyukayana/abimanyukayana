@@ -43,6 +43,10 @@
 - **Key Skills:** Python, Tableau, Data Visualization, Statistical Analysis
 - **Project Link:** [Tableau Dashboard](https://public.tableau.com/shared/R7QF29RMM?:display_count=n&:origin=viz_share_link)
 
+### Car Price Prediction
+- **Description:** Developed a machine learning model to predict car prices based on various features such as brand, model, year, condition, and additional features. The model analyzes historical car sales data to provide accurate price estimates, helping consumers make informed purchasing decisions and enabling sellers to set competitive prices.
+- **Key Skills:** Python, Machine Learning, Data Visualization, Statistical Analysis
+- **Project Link:** [GitHub Repository](https://github.com/abimanyukayana/Car-Prediction)
 ---
 
 ## 🎓 Education
