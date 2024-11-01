@@ -47,6 +47,11 @@
 - **Description:** Developed a machine learning model to predict car prices based on various features such as brand, model, year, condition, and additional features. The model analyzes historical car sales data to provide accurate price estimates, helping consumers make informed purchasing decisions and enabling sellers to set competitive prices.
 - **Key Skills:** Python, Machine Learning, Data Visualization, Statistical Analysis
 - **Project Link:** [GitHub Repository](https://github.com/abimanyukayana/Car-Prediction)
+
+### Skin Type Detection
+- **Description:** Created a machine learning model to identify skin types (oily, dry, and normal) using a dataset of skin images. This project aims to provide personalized skincare recommendations based on skin type, improving user satisfaction and product effectiveness.
+- **Key Skills:** Python, Machine Learning, Data Visualization, Deep Learning
+- **Project Link:** [GitHub Repository](https://github.com/abimanyukayana/Computer-Vision)
 ---
 
 ## 🎓 Education
